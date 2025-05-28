@@ -6,6 +6,8 @@ Here is the link for the WebView.(https://nextjs-webview-web-app.vercel.app/)
 
 It serves as the backend UI for the [Expo WebView Mobile App](https://github.com/Jayant1005/expo-webview-mobile-app) and demonstrates a practical approach to building cross-platform solutions.
 
+{ Note: The basic Functioning of this project has been done. The designing part for this website is underway. I hope you will wait till the updation on this project. }
+
 ## ✨ Features
 
 * **Optimized for WebView:** Developed with responsiveness and efficient loading in mind for smooth integration into a mobile WebView.
